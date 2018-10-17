@@ -8,5 +8,5 @@ for cont in range(1,numero+1):
     
     fatorial =fatorial*cont
   
-    
+     
 print("o Fatorial de {}!={}".format(numero,fatorial))
