@@ -1,4 +1,4 @@
-" Programa calcula os ganhos e perdas do mês em uma determinada qauntidade de empres"
+" Programa calcula os ganhos e perdas do mês das empresas"
 i = 1
 ganho = 0
 gasto = 0
